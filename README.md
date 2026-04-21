@@ -9,7 +9,7 @@ The dataset contains 5,000 medical encounters with 37 features, including patien
 
 ---
 
-## `data_cleaning.py` — Preprocessing & Feature Selection
+## Data cleaning
 
 The script prepares the raw dataset for modelling through the following steps:
 
@@ -25,7 +25,7 @@ The script prepares the raw dataset for modelling through the following steps:
 
 ---
 
-## `ml_analysis.py` — Modelling & Evaluation
+## Modelling & Evaluation
 
 Seven classifiers are trained and evaluated using **10-fold cross-validation**:
 
