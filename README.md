@@ -3,16 +3,6 @@ This project applies classical machine learning techniques to predict whether a 
 
 ---
 
-## Repository Structure
-
-```
-├── data_cleaning.py       # Data preprocessing and feature selection
-├── ml_analysis.py         # Model training, evaluation, and plotting
-└── README.md
-```
-
----
-
 ## Dataset
 
 The dataset contains 5,000 medical encounters with 37 features, including patient demographics, admission details, diagnoses (ICD-9 coded), medications, and the target variable `readmitted`. It is a subset of the [Diabetes 130-US Hospitals dataset](https://doi.org/10.24432/C5230J) from the UCI Machine Learning Repository.
