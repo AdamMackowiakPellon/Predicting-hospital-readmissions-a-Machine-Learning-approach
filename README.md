@@ -58,13 +58,6 @@ Overall, **XGBoost is the recommended model**, offering the best balance of accu
 
 ---
 
-## Dependencies
-
-```
-pandas, numpy, scikit-learn, xgboost, matplotlib
-```
-
----
 
 ## References
 
